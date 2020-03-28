@@ -1,0 +1,24 @@
+{
+    "root": "C:/Users/meteh/OneDrive/Masa\u00fcst\u00fc/Repository/python \u00f6grenmek/randomly/wandb/tutorial",
+    "program": "tutorial.py",
+    "git": {
+        "remote": "http://github.com/wandb/tutorial",
+        "commit": "e9ff3e0e52dba1d1940e2e02525cb0034990f6ac"
+    },
+    "email": "mthnakdag@gmail.com",
+    "codePath": "tutorial.py",
+    "startedAt": "2020-03-28T20:16:11.031259",
+    "host": "DESKTOP-53L12LE",
+    "username": "meteh",
+    "executable": "C:\\ProgramData\\Anaconda3\\python.exe",
+    "os": "Windows-10-10.0.18362-SP0",
+    "python": "3.7.4",
+    "cpu_count": 4,
+    "args": [],
+    "state": "finished",
+    "jobType": null,
+    "mode": "run",
+    "project": "set-run-name-to-id",
+    "heartbeatAt": "2020-03-28T20:18:23.852810",
+    "exitcode": 0
+}
